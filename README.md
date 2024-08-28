@@ -6,7 +6,7 @@ Welcome to my Formula 1 data project! I set out to explore the fascinating world
 ## What I Did
 
 1. **Data Acquisition**
-   - I grabbed a comprehensive F1 dataset from Kaggle that includes everything from race results to driver and team stats.
+   - I grabbed a comprehensive F1 dataset from Kaggle that includes everything from race results to driver and team stats. You can find the original dataset [here](https://www.kaggle.com/path-to-dataset).
 
 2. **Data Structuring**
    - Imported all the CSV files into MySQL to keep things organized and make analysis easier.
@@ -21,7 +21,7 @@ Welcome to my Formula 1 data project! I set out to explore the fascinating world
 
 5. **Dashboard Creation**
    - Created a Power BI dashboard that’s interactive and easy to use.
-   - Features include a timeline of key events, profiles of drivers and teams, performance visuals for different tracks, and dynamic views of race results and qualifying performances.
+   - Features include a timeline of key events, profiles of drivers and teams, performance visuals for different tracks, and dynamic views of race results and qualifying performances. You can explore the Power BI dashboard [here](#) *(Link to be inserted later)*.
 
 ## Key Takeaways
 - Discovered periods of dominance by certain teams and drivers.
@@ -29,9 +29,9 @@ Welcome to my Formula 1 data project! I set out to explore the fascinating world
 - Gained insights into the importance of pit stops and how sprint qualifying sessions can shift race strategies.
 
 ## Tools
-- **Data Source:** Kaggle
+- **Data Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/melissamonfared/formula-1/data)
 - **Database:** MySQL
-- **Analysis and Visualization:** Power BI
+- **Analysis and Visualization:** [Power BI Dashboard](#) *(Link to be inserted later)*
 
 ## Wrap-Up
 This project showed me just how much data can reveal about Formula 1. The Power BI dashboard I created offers a fun and interactive way to explore the sport’s history and performance details.
