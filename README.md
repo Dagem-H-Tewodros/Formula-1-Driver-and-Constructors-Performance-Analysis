@@ -6,7 +6,7 @@ Welcome to my Formula 1 data project! I set out to explore the fascinating world
 ## What I Did
 
 1. **Data Acquisition**
-   - I grabbed a comprehensive F1 dataset from Kaggle that includes everything from race results to driver and team stats. You can find the original dataset [here](https://www.kaggle.com/path-to-dataset).
+   - I grabbed a comprehensive F1 dataset from Kaggle that includes everything from race results to driver and team stats. You can find the original dataset [here](https://www.kaggle.com/datasets/melissamonfared/formula-1/data).
 
 2. **Data Structuring**
    - Imported all the CSV files into MySQL to keep things organized and make analysis easier.
