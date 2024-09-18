@@ -21,7 +21,7 @@ Welcome to my Formula 1 data project! I set out to explore the fascinating world
 
 5. **Dashboard Creation**
    - Created a Power BI dashboard that’s interactive and easy to use.
-   - Features include a timeline of key events, profiles of drivers and teams, performance visuals for different tracks, and dynamic views of race results and qualifying performances. You can explore the Power BI dashboard [here](#) *(Link to be inserted later)*.
+   - Features include a timeline of key events, profiles of drivers and teams, performance visuals for different tracks, and dynamic views of race results and qualifying performances. You can explore the Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZjM0YWEwY2UtMDNmNy00NWYyLWE5ODYtNzM5MmQwMmVmZmQ3IiwidCI6IjQ3NmZjNmYxLTc0YjYtNDBiMS1hNjEzLWNhOTA2MmY5YzM1MyJ9).
 
 ## Key Takeaways
 - Discovered periods of dominance by certain teams and drivers.
@@ -31,7 +31,7 @@ Welcome to my Formula 1 data project! I set out to explore the fascinating world
 ## Tools
 - **Data Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/melissamonfared/formula-1/data)
 - **Database:** MySQL
-- **Analysis and Visualization:** [Power BI Dashboard](#) *(Link to be inserted later)*
+- **Analysis and Visualization:** [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjM0YWEwY2UtMDNmNy00NWYyLWE5ODYtNzM5MmQwMmVmZmQ3IiwidCI6IjQ3NmZjNmYxLTc0YjYtNDBiMS1hNjEzLWNhOTA2MmY5YzM1MyJ9) *
 
 ## Wrap-Up
 This project showed me just how much data can reveal about Formula 1. The Power BI dashboard I created offers a fun and interactive way to explore the sport’s history and performance details.
@@ -43,4 +43,4 @@ This project showed me just how much data can reveal about Formula 1. The Power 
 Feel free to check out the dashboard and dive into the exciting world of F1 data!
 
 ## Contact
-If you have any questions or feedback, don’t hesitate to reach out to me at [Your Email].
+If you have any questions or feedback, don’t hesitate to reach out to me at dagem.h.teowodros@gmail.com.
