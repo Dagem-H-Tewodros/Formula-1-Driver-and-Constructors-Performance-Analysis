@@ -17,7 +17,7 @@ Welcome to my Formula 1 data project! I set out to explore the fascinating world
 4. **Data Analysis**
    - Analyzed championship standings to find out which drivers and teams dominated over the years.
    - Looked into how performance varied across different circuits and compared qualifying results with race outcomes.
-   - Explored pit stop strategies and the effects of sprint qualifying sessions on race results.
+   - Explored the effects of sprint qualifying sessions on race results.
 
 5. **Dashboard Creation**
    - Created a Power BI dashboard that’s interactive and easy to use.
