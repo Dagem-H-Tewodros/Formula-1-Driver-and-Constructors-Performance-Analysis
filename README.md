@@ -31,7 +31,7 @@ Welcome to my Formula 1 data project! I set out to explore the fascinating world
 ## Tools
 - **Data Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/melissamonfared/formula-1/data)
 - **Database:** MySQL
-- **Analysis and Visualization:** [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjM0YWEwY2UtMDNmNy00NWYyLWE5ODYtNzM5MmQwMmVmZmQ3IiwidCI6IjQ3NmZjNmYxLTc0YjYtNDBiMS1hNjEzLWNhOTA2MmY5YzM1MyJ9) *
+- **Analysis and Visualization:** [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjM0YWEwY2UtMDNmNy00NWYyLWE5ODYtNzM5MmQwMmVmZmQ3IiwidCI6IjQ3NmZjNmYxLTc0YjYtNDBiMS1hNjEzLWNhOTA2MmY5YzM1MyJ9).
 
 ## Wrap-Up
 This project showed me just how much data can reveal about Formula 1. The Power BI dashboard I created offers a fun and interactive way to explore the sport’s history and performance details.
